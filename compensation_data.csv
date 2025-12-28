@@ -1,0 +1,1001 @@
+flight_id,airline,delay_minutes,ticket_class,distance_km,region,loyalty_score,base_compensation,final_compensation
+FL0001,Emirates,233,Economy,2486,Domestic,0.74,4800,5637.89
+FL0002,GoAir,215,Economy,7112,International,0.03,7200,6936.24
+FL0003,IndiGo,99,Economy,10847,International,0.7,6000,6646.08
+FL0004,SpiceJet,119,Economy,306,Domestic,0.76,2500,3149.05
+FL0005,SpiceJet,91,Business,5714,International,0.1,7200,7212.35
+FL0006,Vistara,164,Premium,10091,International,0.26,6600,6546.81
+FL0007,SpiceJet,39,Economy,5003,International,0.83,6000,6910.95
+FL0008,Qatar Airways,65,Economy,3350,International,0.7,4000,4486.54
+FL0009,IndiGo,157,Premium,1854,Domestic,0.38,4400,4757.73
+FL0010,Qatar Airways,38,Economy,6020,International,0.21,6000,6065.29
+FL0011,Emirates,46,Economy,4210,International,0.16,6000,6085.74
+FL0012,Emirates,21,Economy,3798,International,0.68,6000,6909.03
+FL0013,Qatar Airways,276,Premium,6772,International,0.27,7920,7953.29
+FL0014,GoAir,177,Premium,5355,International,0.21,6600,6809.48
+FL0015,Emirates,51,Economy,9397,International,0.54,6000,6701.55
+FL0016,SpiceJet,138,Premium,6743,International,0.36,6600,7306.14
+FL0017,IndiGo,80,Economy,1996,Domestic,0.15,4000,4008.89
+FL0018,Emirates,117,Economy,1240,Domestic,0.38,2500,2907.62
+FL0019,SpiceJet,15,Economy,2076,Domestic,0.68,4000,4697.3
+FL0020,Vistara,76,Premium,5773,International,0.11,6600,6666.23
+FL0021,SpiceJet,263,Premium,8401,International,0.76,7920,8686.67
+FL0022,Air India,122,Premium,5089,International,0.84,6600,7445.7
+FL0023,IndiGo,207,Economy,8889,International,0.92,7200,8200.34
+FL0024,SpiceJet,245,Economy,6147,International,0.88,7200,8347.99
+FL0025,Vistara,124,Economy,1490,Domestic,0.09,2500,2586.37
+FL0026,Air India,186,Business,8927,International,0.77,8640,9060.32
+FL0027,SpiceJet,171,Economy,10138,International,0.42,6000,6234.97
+FL0028,GoAir,102,Premium,11502,International,0.2,6600,6671.97
+FL0029,Emirates,63,Economy,2182,Domestic,0.25,4000,4064.71
+FL0030,Air India,41,Economy,3970,International,0.59,6000,6265.24
+FL0031,Emirates,75,Business,5613,International,0.07,7200,7079.53
+FL0032,Emirates,72,Economy,9034,International,0.13,6000,6396.97
+FL0033,GoAir,60,Economy,6869,International,0.19,6000,5940.5
+FL0034,SpiceJet,89,Economy,6935,International,0.47,6000,6618.21
+FL0035,Emirates,46,Economy,5759,International,0.8,6000,6534.3
+FL0036,IndiGo,27,Economy,2496,Domestic,0.42,4000,4322.12
+FL0037,IndiGo,145,Premium,9216,International,0.1,6600,6801.94
+FL0038,GoAir,94,Premium,1728,Domestic,0.93,4400,5515.85
+FL0039,IndiGo,34,Premium,1160,Domestic,0.16,2750,2765.13
+FL0040,SpiceJet,177,Economy,7654,International,0.29,6000,6413.66
+FL0041,Emirates,234,Premium,2736,International,0.19,5280,5315.58
+FL0042,Air India,116,Economy,9083,International,0.06,6000,5947.04
+FL0043,Air India,28,Premium,2779,International,0.06,4400,4463.49
+FL0044,Qatar Airways,66,Economy,9949,International,0.07,6000,6289.62
+FL0045,SpiceJet,258,Economy,9940,International,0.04,7200,6937.36
+FL0046,Emirates,249,Economy,8765,International,0.32,7200,7340.1
+FL0047,Emirates,105,Economy,11204,International,0.65,6000,6621.55
+FL0048,Qatar Airways,55,Business,352,Domestic,0.46,3000,3632.47
+FL0049,Air India,175,Economy,5918,International,0.88,6000,7140.94
+FL0050,Vistara,147,Economy,7379,International,0.83,6000,6969.02
+FL0051,GoAir,282,Economy,11142,International,0.82,7200,7859.1
+FL0052,Emirates,103,Economy,2400,Domestic,0.26,4000,4426.02
+FL0053,Emirates,52,Economy,11957,International,0.34,6000,6458.87
+FL0054,Qatar Airways,96,Economy,8204,International,0.25,6000,6505.1
+FL0055,Air India,199,Economy,258,Domestic,0.33,3000,3207.06
+FL0056,Vistara,171,Economy,7439,International,0.55,6000,6502.63
+FL0057,Air India,285,Economy,2642,International,0.55,4800,5529.01
+FL0058,GoAir,260,Economy,7241,International,0.13,7200,7189.45
+FL0059,Qatar Airways,145,Economy,11374,International,0.25,6000,6001.75
+FL0060,Qatar Airways,115,Economy,6858,International,0.97,6000,7143.89
+FL0061,IndiGo,282,Premium,6955,International,0.02,7920,8127.83
+FL0062,Vistara,41,Premium,4265,International,0.27,6600,7067.43
+FL0063,Air India,101,Economy,3469,International,0.82,4000,4800.87
+FL0064,Vistara,137,Premium,3928,International,0.22,6600,6929.14
+FL0065,SpiceJet,35,Business,4773,International,0.35,7200,7557.1
+FL0066,Emirates,278,Business,8985,International,0.33,8640,8546.26
+FL0067,Vistara,220,Economy,1976,Domestic,0.6,4800,5316.67
+FL0068,Qatar Airways,327,Economy,10132,International,0.98,9000,9596.41
+FL0069,GoAir,129,Economy,8718,International,0.93,6000,6956.65
+FL0070,Emirates,145,Business,11187,International,0.2,7200,7349.16
+FL0071,Emirates,230,Economy,2241,Domestic,0.72,4800,5409.78
+FL0072,Vistara,59,Economy,5544,International,0.4,6000,6269.22
+FL0073,IndiGo,167,Economy,3051,International,0.62,4000,4528.04
+FL0074,GoAir,244,Premium,5178,International,0.29,7920,8152.44
+FL0075,GoAir,57,Economy,11269,International,0.21,6000,6193.35
+FL0076,Qatar Airways,70,Premium,10994,International,0.08,6600,6690.32
+FL0077,Emirates,90,Business,4048,International,0.67,7200,7653.29
+FL0078,IndiGo,92,Economy,957,Domestic,0.24,2500,2733.19
+FL0079,Qatar Airways,131,Premium,9631,International,0.19,6600,6923.32
+FL0080,SpiceJet,21,Economy,2617,International,0.66,4000,4429.58
+FL0081,Qatar Airways,239,Premium,3785,International,0.18,7920,8470.95
+FL0082,GoAir,44,Economy,4282,International,0.92,6000,6657.98
+FL0083,IndiGo,162,Business,9955,International,0.32,7200,7711.95
+FL0084,SpiceJet,54,Premium,8470,International,0.43,6600,7316.02
+FL0085,SpiceJet,238,Economy,4446,International,0.75,7200,8220.19
+FL0086,Vistara,30,Premium,8740,International,0.48,6600,6895.39
+FL0087,SpiceJet,185,Economy,5438,International,0.89,7200,7750.69
+FL0088,IndiGo,154,Economy,11569,International,0.15,6000,5974.08
+FL0089,SpiceJet,25,Economy,3588,International,0.83,6000,6754.51
+FL0090,Qatar Airways,181,Economy,11595,International,0.02,7200,7494.83
+FL0091,GoAir,112,Economy,6589,International,0.85,6000,7160.6
+FL0092,SpiceJet,126,Economy,9147,International,0.8,6000,7070.51
+FL0093,SpiceJet,138,Economy,5707,International,0.67,6000,6868.86
+FL0094,Emirates,214,Economy,7857,International,0.92,7200,8510.35
+FL0095,GoAir,208,Economy,644,Domestic,0.08,3000,3058.01
+FL0096,Qatar Airways,135,Economy,1023,Domestic,0.26,2500,2712.35
+FL0097,SpiceJet,49,Economy,7106,International,0.25,6000,5988.69
+FL0098,Air India,254,Premium,1053,Domestic,1,3300,4235.48
+FL0099,Emirates,325,Economy,708,Domestic,0.95,3750,4558.7
+FL0100,Air India,214,Economy,4108,International,0.13,7200,7454.21
+FL0101,GoAir,215,Economy,6243,International,0.17,7200,7449.04
+FL0102,Emirates,87,Premium,2883,International,0.96,4400,5149.94
+FL0103,Air India,226,Business,6349,International,0.4,8640,9234.37
+FL0104,Air India,69,Economy,10476,International,0.24,6000,6363.05
+FL0105,Vistara,191,Economy,9472,International,0.78,7200,7858.07
+FL0106,SpiceJet,21,Economy,1329,Domestic,0.51,2500,2962.21
+FL0107,Qatar Airways,28,Economy,6134,International,0.64,6000,6858.26
+FL0108,Emirates,170,Economy,3085,International,0.73,4000,4950.17
+FL0109,Vistara,45,Economy,9907,International,0.27,6000,6490.52
+FL0110,Qatar Airways,20,Economy,7585,International,0.24,6000,6217.98
+FL0111,GoAir,79,Economy,5525,International,0.18,6000,6002.09
+FL0112,Qatar Airways,49,Economy,4781,International,0.88,6000,7018.41
+FL0113,Vistara,18,Economy,4154,International,0.72,6000,6712.32
+FL0114,Qatar Airways,82,Economy,8000,International,0.65,6000,6643.9
+FL0115,Qatar Airways,194,Economy,4186,International,0.31,7200,7571.25
+FL0116,SpiceJet,128,Economy,5832,International,0.43,6000,6588.14
+FL0117,Vistara,60,Economy,3977,International,0.12,6000,5931.86
+FL0118,Air India,199,Premium,11507,International,0.19,7920,7879.99
+FL0119,SpiceJet,100,Premium,9977,International,0.28,6600,6605.16
+FL0120,IndiGo,238,Economy,6112,International,0.18,7200,7021.44
+FL0121,GoAir,139,Economy,4986,International,0.7,6000,6449.61
+FL0122,Qatar Airways,139,Premium,1880,Domestic,0.87,4400,5309.03
+FL0123,SpiceJet,38,Business,4336,International,0.94,7200,8121.87
+FL0124,Qatar Airways,130,Economy,8256,International,0.07,6000,6148.57
+FL0125,Air India,215,Business,1595,Domestic,0.99,5760,6492.45
+FL0126,Qatar Airways,253,Economy,9966,International,0.79,7200,7770.82
+FL0127,GoAir,34,Premium,7225,International,0.31,6600,6993.63
+FL0128,GoAir,254,Business,1825,Domestic,0.95,5760,6513.93
+FL0129,IndiGo,116,Economy,9243,International,0.08,6000,5777.63
+FL0130,SpiceJet,156,Economy,7899,International,0.29,6000,6121.1
+FL0131,Emirates,83,Economy,4024,International,0.92,6000,7119.18
+FL0132,Emirates,294,Economy,3441,International,0.43,4800,5253.31
+FL0133,Emirates,161,Economy,1177,Domestic,0.17,2500,2618.63
+FL0134,Emirates,176,Premium,4928,International,0.44,6600,7017.96
+FL0135,Vistara,53,Economy,8290,International,0.44,6000,6503.14
+FL0136,SpiceJet,35,Economy,623,Domestic,0.09,2500,2709.63
+FL0137,Qatar Airways,196,Economy,11214,International,0.82,7200,8081.15
+FL0138,Qatar Airways,28,Premium,7908,International,0.52,6600,7078.87
+FL0139,Vistara,169,Economy,8256,International,0.97,6000,6949.1
+FL0140,SpiceJet,228,Economy,11179,International,0.1,7200,7052.4
+FL0141,SpiceJet,94,Business,9212,International,0.04,7200,6941.76
+FL0142,Vistara,50,Economy,6822,International,0.86,6000,7082.9
+FL0143,Air India,58,Economy,3273,International,0.52,4000,4575.43
+FL0144,SpiceJet,25,Economy,1045,Domestic,0.2,2500,2713.29
+FL0145,Vistara,22,Economy,10522,International,0.61,6000,6437.68
+FL0146,IndiGo,172,Economy,424,Domestic,0.55,2500,2925.93
+FL0147,Qatar Airways,205,Economy,2722,International,0.5,4800,5414.8
+FL0148,GoAir,67,Premium,7007,International,0.83,6600,7786.82
+FL0149,IndiGo,71,Economy,10020,International,0.51,6000,6756.94
+FL0150,Qatar Airways,133,Economy,6998,International,0.34,6000,6522.41
+FL0151,Vistara,151,Economy,9816,International,0.58,6000,6685.24
+FL0152,Qatar Airways,53,Economy,9024,International,0.48,6000,6371.42
+FL0153,Qatar Airways,24,Economy,3290,International,0.98,4000,4849.93
+FL0154,SpiceJet,93,Economy,6930,International,0.04,6000,6187.8
+FL0155,Emirates,195,Business,10882,International,0.98,8640,9615.51
+FL0156,Air India,74,Economy,9869,International,0.33,6000,6077.03
+FL0157,Qatar Airways,17,Economy,2561,International,0.41,4000,4478.26
+FL0158,IndiGo,160,Economy,4542,International,0.34,6000,6462.17
+FL0159,Emirates,190,Economy,8942,International,0.38,7200,7441.03
+FL0160,Emirates,158,Premium,8194,International,0.87,6600,7123.32
+FL0161,Air India,133,Economy,3927,International,0.75,6000,6705.43
+FL0162,Air India,256,Premium,11732,International,0.87,7920,8740.49
+FL0163,Emirates,113,Economy,1119,Domestic,0.29,2500,2755.08
+FL0164,IndiGo,140,Economy,6951,International,0.57,6000,6762.19
+FL0165,IndiGo,175,Economy,11392,International,0.24,6000,6497.61
+FL0166,IndiGo,229,Economy,10651,International,0.25,7200,7267.72
+FL0167,Air India,201,Economy,9155,International,0.16,7200,7317.11
+FL0168,Vistara,60,Business,5101,International,0.64,7200,7780.66
+FL0169,Vistara,46,Business,8116,International,0.11,7200,7223.28
+FL0170,Vistara,140,Economy,11656,International,0.3,6000,6601.11
+FL0171,Emirates,110,Premium,1003,Domestic,0.91,2750,3749.73
+FL0172,Qatar Airways,126,Business,4889,International,0.78,7200,7764.63
+FL0173,Qatar Airways,43,Economy,11304,International,0.76,6000,6940.81
+FL0174,Emirates,222,Premium,10493,International,0.1,7920,8122.22
+FL0175,Air India,84,Economy,2353,Domestic,0.09,4000,4006.2
+FL0176,Emirates,210,Economy,3489,International,0.13,4800,4949.43
+FL0177,Vistara,25,Economy,8094,International,0.97,6000,6827.21
+FL0178,Qatar Airways,81,Economy,2086,Domestic,0.47,4000,4280.16
+FL0179,Qatar Airways,294,Premium,6711,International,0.97,7920,9160.78
+FL0180,Vistara,82,Economy,6664,International,0.01,6000,6031.98
+FL0181,SpiceJet,18,Economy,6442,International,0.82,6000,7120.28
+FL0182,Air India,229,Economy,7924,International,0.03,7200,7507.8
+FL0183,GoAir,61,Economy,10610,International,0.82,6000,7099.2
+FL0184,Vistara,228,Economy,2111,Domestic,0.14,4800,5160.45
+FL0185,Vistara,164,Economy,9007,International,0.14,6000,6111.54
+FL0186,Emirates,118,Business,11611,International,0.95,7200,8084.09
+FL0187,Emirates,92,Economy,8217,International,0.62,6000,6910.65
+FL0188,Vistara,17,Economy,3759,International,0.44,6000,6730.16
+FL0189,Qatar Airways,38,Economy,10764,International,0.36,6000,6295.22
+FL0190,IndiGo,312,Business,7650,International,0.09,10800,10576.48
+FL0191,Emirates,104,Premium,4190,International,0.99,6600,7807.82
+FL0192,IndiGo,109,Economy,9280,International,0.21,6000,6033.61
+FL0193,Qatar Airways,136,Premium,9964,International,0,6600,6836.55
+FL0194,IndiGo,274,Business,9050,International,0.25,8640,8600.63
+FL0195,Emirates,151,Economy,4098,International,0.59,6000,6270.9
+FL0196,Vistara,84,Economy,7097,International,0.53,6000,6690.42
+FL0197,SpiceJet,39,Economy,7605,International,0.5,6000,6789.52
+FL0198,Air India,147,Premium,10995,International,0.52,6600,7090.13
+FL0199,Air India,215,Economy,11441,International,0.11,7200,7465.27
+FL0200,SpiceJet,158,Economy,1523,Domestic,0.32,4000,4168.08
+FL0201,IndiGo,100,Economy,5527,International,0.38,6000,6442.14
+FL0202,Vistara,245,Economy,10119,International,0.43,7200,7853.63
+FL0203,Air India,198,Premium,3722,International,0.43,7920,8674.06
+FL0204,SpiceJet,15,Economy,7630,International,0.4,6000,6546.95
+FL0205,Vistara,38,Business,11452,International,0.92,7200,7768.51
+FL0206,Qatar Airways,179,Economy,7275,International,0.1,6000,6245.67
+FL0207,Qatar Airways,141,Business,9402,International,0.33,7200,7245.54
+FL0208,Vistara,143,Premium,7129,International,0.87,6600,7635.13
+FL0209,Vistara,52,Economy,3685,International,0.15,6000,6139.05
+FL0210,Qatar Airways,70,Economy,9313,International,0.37,6000,6537.28
+FL0211,GoAir,134,Economy,10386,International,0.61,6000,6704.32
+FL0212,Air India,214,Economy,10977,International,0.83,7200,7843.26
+FL0213,IndiGo,97,Business,5951,International,0.01,7200,7476.67
+FL0214,GoAir,270,Economy,1340,Domestic,0.14,3000,3181.82
+FL0215,Air India,212,Economy,7632,International,0.34,7200,7442.02
+FL0216,Emirates,180,Economy,9499,International,0.6,6000,6853.01
+FL0217,IndiGo,188,Economy,4658,International,0.44,7200,7581.95
+FL0218,GoAir,224,Economy,4675,International,0.22,7200,7429.16
+FL0219,Vistara,53,Economy,8172,International,0.53,6000,6404.9
+FL0220,IndiGo,151,Economy,10019,International,0.05,6000,5871.18
+FL0221,IndiGo,136,Economy,2165,Domestic,0.01,4000,4109.05
+FL0222,IndiGo,23,Economy,11728,International,0.23,6000,6266.58
+FL0223,Emirates,132,Premium,893,Domestic,0.44,2750,3177.16
+FL0224,Air India,87,Premium,9633,International,0.43,6600,6962.81
+FL0225,Emirates,81,Economy,5521,International,0.17,6000,6446.18
+FL0226,SpiceJet,142,Premium,6128,International,0.09,6600,6920.46
+FL0227,IndiGo,36,Economy,5283,International,0.75,6000,6562.06
+FL0228,Qatar Airways,155,Economy,8563,International,0.63,6000,6650.29
+FL0229,IndiGo,189,Premium,10774,International,0.82,7920,8509.5
+FL0230,IndiGo,73,Economy,3042,International,0.6,4000,4719.7
+FL0231,Emirates,316,Economy,7801,International,0.75,9000,10003.38
+FL0232,SpiceJet,220,Economy,9448,International,0.64,7200,8221.44
+FL0233,Vistara,203,Economy,1318,Domestic,0.47,3000,3515.59
+FL0234,Qatar Airways,24,Economy,1120,Domestic,0.35,2500,2728.64
+FL0235,SpiceJet,90,Premium,1457,Domestic,0.64,2750,3551.83
+FL0236,Air India,129,Economy,8507,International,0.38,6000,6431.25
+FL0237,Qatar Airways,118,Business,9566,International,0.65,7200,7709.9
+FL0238,SpiceJet,94,Economy,1213,Domestic,0.45,2500,3041.74
+FL0239,Qatar Airways,41,Economy,3027,International,0.04,4000,4123.88
+FL0240,SpiceJet,238,Economy,10191,International,0.16,7200,7266.42
+FL0241,Vistara,58,Economy,10536,International,0.65,6000,6361.33
+FL0242,Air India,220,Economy,6533,International,0.28,7200,7647.35
+FL0243,Emirates,239,Economy,1535,Domestic,0.58,4800,5187.09
+FL0244,Vistara,92,Economy,10948,International,0.7,6000,6627.61
+FL0245,GoAir,110,Economy,10742,International,0.79,6000,7002.65
+FL0246,Emirates,83,Premium,11429,International,0.91,6600,7204.68
+FL0247,Emirates,44,Economy,3153,International,0.95,4000,4871.66
+FL0248,Qatar Airways,159,Economy,3911,International,1,6000,6758.46
+FL0249,Vistara,143,Premium,8826,International,0.04,6600,6531.61
+FL0250,Qatar Airways,85,Economy,9985,International,0.38,6000,6164.51
+FL0251,Qatar Airways,75,Business,7370,International,0.04,7200,7141.75
+FL0252,Emirates,30,Business,10203,International,0.28,7200,7665.91
+FL0253,SpiceJet,126,Business,7884,International,0.9,7200,7852.15
+FL0254,Emirates,186,Business,7418,International,0.46,8640,8901.41
+FL0255,SpiceJet,26,Economy,3471,International,0.8,4000,4626.43
+FL0256,Vistara,118,Economy,8073,International,0.87,6000,6907.47
+FL0257,Air India,93,Economy,1574,Domestic,0.76,4000,4651.85
+FL0258,GoAir,24,Premium,1702,Domestic,0.95,4400,5201.29
+FL0259,SpiceJet,275,Economy,6695,International,0.5,7200,7496.55
+FL0260,Air India,38,Economy,5421,International,0.93,6000,7165.05
+FL0261,Emirates,94,Economy,7940,International,0.7,6000,6457.99
+FL0262,Emirates,163,Economy,10281,International,0.01,6000,5757.11
+FL0263,Vistara,130,Business,10175,International,0.53,7200,7429.45
+FL0264,Vistara,170,Economy,2196,Domestic,0.05,4000,4017.53
+FL0265,Qatar Airways,96,Premium,8389,International,0.6,6600,6851.83
+FL0266,GoAir,97,Economy,11972,International,0.14,6000,6096.55
+FL0267,GoAir,49,Economy,11148,International,0.09,6000,6379.06
+FL0268,Air India,213,Business,9114,International,0.51,8640,9596.82
+FL0269,GoAir,301,Economy,6538,International,0.98,9000,9734.14
+FL0270,Air India,143,Economy,1306,Domestic,0.34,2500,2906.16
+FL0271,Emirates,214,Premium,2385,Domestic,0.04,5280,5344.48
+FL0272,Qatar Airways,192,Economy,11417,International,0.46,7200,7809.67
+FL0273,Emirates,139,Premium,7698,International,0.04,6600,6441.86
+FL0274,Qatar Airways,164,Economy,886,Domestic,0.32,2500,2766.44
+FL0275,SpiceJet,232,Economy,10798,International,0.19,7200,7284.3
+FL0276,Qatar Airways,112,Economy,10943,International,0.33,6000,6092.29
+FL0277,Vistara,36,Economy,6534,International,0.34,6000,6141.44
+FL0278,Emirates,155,Economy,8707,International,0.27,6000,6008.3
+FL0279,SpiceJet,227,Premium,9137,International,0.29,7920,7883.73
+FL0280,Vistara,178,Economy,5221,International,0.45,6000,6590.39
+FL0281,IndiGo,89,Economy,5976,International,0.61,6000,6567
+FL0282,Emirates,42,Business,1139,Domestic,0.08,3000,3122.35
+FL0283,Vistara,25,Business,2539,International,0.85,4800,5750.62
+FL0284,SpiceJet,107,Economy,1301,Domestic,0.24,2500,2779.77
+FL0285,Vistara,33,Economy,11325,International,0.45,6000,6366.77
+FL0286,SpiceJet,198,Premium,9603,International,0.14,7920,7952.76
+FL0287,Vistara,79,Economy,3248,International,0.5,4000,4449.14
+FL0288,GoAir,64,Economy,4464,International,0.7,6000,6508.76
+FL0289,GoAir,75,Economy,2209,Domestic,0.14,4000,3963.66
+FL0290,IndiGo,315,Premium,7492,International,1,9900,11238.46
+FL0291,Qatar Airways,253,Premium,9211,International,0.54,7920,8791.07
+FL0292,Qatar Airways,108,Economy,11825,International,0.93,6000,7025.43
+FL0293,Qatar Airways,78,Business,2475,Domestic,0.24,4800,5036.99
+FL0294,Vistara,169,Economy,6244,International,0.47,6000,6782.51
+FL0295,IndiGo,90,Economy,11946,International,0.72,6000,6737.27
+FL0296,Qatar Airways,95,Economy,9619,International,0.07,6000,6356.73
+FL0297,Emirates,210,Economy,2302,Domestic,0.88,4800,5839.19
+FL0298,Emirates,165,Economy,2314,Domestic,0.43,4000,4611.95
+FL0299,Air India,173,Economy,2853,International,0.32,4000,4410.43
+FL0300,Vistara,25,Business,8701,International,0.89,7200,8369.86
+FL0301,Vistara,194,Economy,10440,International,0.3,7200,7525.11
+FL0302,GoAir,332,Economy,9896,International,0.94,9000,9596.27
+FL0303,Emirates,36,Premium,9434,International,0.04,6600,6881.55
+FL0304,Air India,17,Business,9649,International,0.26,7200,7244.26
+FL0305,GoAir,46,Premium,9138,International,0.29,6600,7204.63
+FL0306,SpiceJet,184,Economy,11422,International,0.41,7200,7574.65
+FL0307,Emirates,210,Economy,3542,International,0.34,7200,7271.33
+FL0308,Qatar Airways,155,Premium,5858,International,0.98,6600,7300.12
+FL0309,Vistara,77,Economy,2207,Domestic,0.27,4000,4162.36
+FL0310,Air India,115,Economy,6493,International,0.86,6000,6803.84
+FL0311,Qatar Airways,254,Business,5323,International,0.19,8640,8529.2
+FL0312,GoAir,25,Economy,5255,International,0.5,6000,6233.53
+FL0313,SpiceJet,28,Economy,997,Domestic,0.05,2500,2548.7
+FL0314,Qatar Airways,111,Economy,7910,International,0.29,6000,5980.64
+FL0315,Air India,38,Premium,6195,International,0.05,6600,6351.52
+FL0316,GoAir,198,Economy,9264,International,0.29,7200,7404.88
+FL0317,SpiceJet,126,Business,11347,International,0.61,7200,7519.99
+FL0318,Air India,47,Economy,5755,International,0.56,6000,6471.84
+FL0319,IndiGo,153,Economy,942,Domestic,0.04,2500,2594.25
+FL0320,Qatar Airways,221,Economy,7687,International,0.15,7200,7638.95
+FL0321,IndiGo,61,Economy,10300,International,0.74,6000,6604.68
+FL0322,Vistara,229,Economy,8551,International,0.53,7200,7891.36
+FL0323,Vistara,103,Economy,1995,Domestic,0.98,4000,5021.68
+FL0324,Qatar Airways,122,Premium,11472,International,0.63,6600,7300.07
+FL0325,Vistara,273,Premium,9663,International,0.23,7920,7784.35
+FL0326,SpiceJet,87,Economy,10505,International,0.72,6000,6904.54
+FL0327,SpiceJet,201,Economy,11677,International,0.11,7200,6958.34
+FL0328,Vistara,228,Economy,6965,International,0.69,7200,7819.29
+FL0329,Qatar Airways,42,Premium,1220,Domestic,0.71,2750,3466.46
+FL0330,GoAir,54,Economy,11049,International,0.48,6000,6400.18
+FL0331,IndiGo,49,Economy,11353,International,0.64,6000,6768.36
+FL0332,GoAir,147,Economy,4238,International,0.28,6000,6153.46
+FL0333,Vistara,138,Economy,8211,International,0.32,6000,6224.44
+FL0334,Qatar Airways,32,Economy,9595,International,0.68,6000,6599.64
+FL0335,SpiceJet,213,Premium,4958,International,0.04,7920,8322.43
+FL0336,Air India,37,Business,10947,International,0.26,7200,7444.39
+FL0337,IndiGo,153,Economy,4650,International,0.14,6000,6211.03
+FL0338,GoAir,56,Economy,1031,Domestic,0.67,2500,3179.84
+FL0339,Emirates,124,Economy,7939,International,0.1,6000,6265.17
+FL0340,Air India,161,Business,2787,International,0.41,4800,5436.65
+FL0341,SpiceJet,60,Business,5462,International,0.29,7200,7159.81
+FL0342,Qatar Airways,128,Economy,9606,International,0.23,6000,6378.7
+FL0343,Qatar Airways,303,Economy,3080,International,0.93,6000,6608.68
+FL0344,Qatar Airways,42,Economy,8316,International,0.19,6000,6344.13
+FL0345,Qatar Airways,284,Economy,9505,International,0.6,7200,8134.19
+FL0346,Vistara,37,Economy,10707,International,0.54,6000,6536.02
+FL0347,IndiGo,179,Economy,2045,Domestic,0.33,4000,4430.07
+FL0348,Emirates,38,Economy,3250,International,0.01,4000,3944.68
+FL0349,Vistara,26,Economy,10664,International,0.9,6000,7125.62
+FL0350,GoAir,57,Economy,6767,International,0.67,6000,6459.75
+FL0351,IndiGo,15,Economy,4058,International,0.45,6000,6299.71
+FL0352,Vistara,149,Economy,9586,International,0.01,6000,6102.36
+FL0353,Emirates,131,Economy,2816,International,0.41,4000,4411.11
+FL0354,Emirates,253,Premium,11509,International,0.12,7920,8374.57
+FL0355,Vistara,77,Business,8034,International,0.15,7200,7532.09
+FL0356,GoAir,167,Economy,11700,International,0.55,6000,6530.89
+FL0357,GoAir,173,Premium,11346,International,0.75,6600,7624.25
+FL0358,Air India,48,Economy,11730,International,0.36,6000,6625.37
+FL0359,Air India,224,Economy,9583,International,0.54,7200,7480.35
+FL0360,Qatar Airways,162,Economy,2104,Domestic,0.68,4000,4781.52
+FL0361,SpiceJet,210,Premium,7629,International,0.13,7920,7981.92
+FL0362,GoAir,178,Economy,7775,International,0.67,6000,6542.05
+FL0363,Air India,28,Economy,942,Domestic,0.42,2500,2978.51
+FL0364,GoAir,220,Business,1330,Domestic,0.99,3600,4577.18
+FL0365,Vistara,56,Business,10782,International,0.96,7200,8057.56
+FL0366,SpiceJet,203,Economy,6384,International,0.38,7200,7718.51
+FL0367,Emirates,153,Premium,2143,Domestic,0.18,4400,4597.06
+FL0368,GoAir,85,Economy,3848,International,0.83,6000,7004.97
+FL0369,Vistara,42,Economy,3962,International,0.25,6000,6153.85
+FL0370,Vistara,153,Economy,2048,Domestic,0.03,4000,4094.56
+FL0371,GoAir,138,Economy,3576,International,0.07,6000,6127.02
+FL0372,SpiceJet,53,Economy,997,Domestic,0.24,2500,2615.12
+FL0373,SpiceJet,126,Premium,1124,Domestic,0.14,2750,3032.62
+FL0374,IndiGo,182,Premium,9638,International,0.32,7920,8320.68
+FL0375,Emirates,147,Premium,11016,International,0.52,6600,7058.45
+FL0376,Vistara,59,Economy,9893,International,0.88,6000,7163.17
+FL0377,Emirates,70,Economy,5842,International,0.94,6000,7058.91
+FL0378,Qatar Airways,16,Economy,11608,International,0.42,6000,6194.8
+FL0379,SpiceJet,165,Economy,3892,International,0.3,6000,6430.77
+FL0380,Qatar Airways,222,Economy,1144,Domestic,0.56,3000,3726.53
+FL0381,GoAir,32,Economy,5611,International,0.65,6000,6930.78
+FL0382,Qatar Airways,103,Economy,8975,International,0.72,6000,6512
+FL0383,Vistara,32,Economy,1392,Domestic,0.19,2500,2760.4
+FL0384,Emirates,205,Economy,3755,International,0.48,7200,7963.76
+FL0385,Vistara,55,Economy,3313,International,0.96,4000,4770.19
+FL0386,Qatar Airways,306,Economy,4174,International,0.7,9000,9897.66
+FL0387,SpiceJet,218,Premium,6436,International,0.47,7920,8514.78
+FL0388,Vistara,62,Economy,8601,International,0.88,6000,6856.61
+FL0389,Qatar Airways,220,Premium,3528,International,0.37,7920,8218.65
+FL0390,GoAir,108,Premium,2590,International,0.02,4400,4443.56
+FL0391,GoAir,37,Economy,5604,International,0.23,6000,6273.48
+FL0392,IndiGo,75,Economy,10925,International,0.94,6000,6827.27
+FL0393,Qatar Airways,221,Economy,8237,International,0.46,7200,7838.3
+FL0394,Vistara,25,Economy,9154,International,0.49,6000,6760.57
+FL0395,GoAir,345,Economy,1417,Domestic,0.95,3750,4779.06
+FL0396,Qatar Airways,106,Economy,2452,Domestic,0.84,4000,4710.01
+FL0397,Emirates,156,Economy,1190,Domestic,0.62,2500,3172.03
+FL0398,GoAir,171,Business,11001,International,0.49,7200,7310.58
+FL0399,GoAir,105,Premium,8977,International,0.98,6600,7213.99
+FL0400,Qatar Airways,128,Economy,7254,International,0.81,6000,7089.06
+FL0401,Air India,215,Economy,10354,International,0.53,7200,7973.66
+FL0402,Vistara,65,Premium,1494,Domestic,0.37,2750,3090.68
+FL0403,GoAir,125,Economy,1520,Domestic,0.65,4000,4816.57
+FL0404,Qatar Airways,258,Economy,6840,International,0.38,7200,7619.95
+FL0405,Air India,28,Economy,7309,International,0.64,6000,6527.96
+FL0406,Qatar Airways,21,Premium,897,Domestic,0.23,2750,3099.58
+FL0407,Emirates,197,Economy,1418,Domestic,0.68,3000,3599.18
+FL0408,GoAir,53,Economy,739,Domestic,0.18,2500,2773.91
+FL0409,Air India,236,Premium,11877,International,0.82,7920,9114.84
+FL0410,Vistara,91,Economy,4139,International,0.57,6000,6799.58
+FL0411,Emirates,184,Premium,2492,Domestic,0.79,5280,6184.91
+FL0412,Air India,71,Economy,5866,International,0.05,6000,6011.94
+FL0413,Qatar Airways,228,Economy,9958,International,0.4,7200,7807.9
+FL0414,Air India,176,Economy,7581,International,0.49,6000,6396.42
+FL0415,SpiceJet,57,Economy,10335,International,0.3,6000,6140.26
+FL0416,Air India,176,Economy,2726,International,0.38,4000,4504.34
+FL0417,IndiGo,114,Economy,285,Domestic,0.94,2500,3420.99
+FL0418,Qatar Airways,41,Economy,2370,Domestic,0.09,4000,4061.77
+FL0419,GoAir,33,Economy,5998,International,0.55,6000,6613.49
+FL0420,Qatar Airways,88,Economy,6511,International,0.01,6000,5958.2
+FL0421,Qatar Airways,286,Business,4177,International,0.57,8640,8905.69
+FL0422,SpiceJet,218,Economy,4605,International,0.3,7200,7494.84
+FL0423,Air India,155,Economy,1460,Domestic,0.36,2500,2987.05
+FL0424,Emirates,182,Economy,9928,International,0.62,7200,7787.05
+FL0425,IndiGo,46,Economy,10361,International,0.38,6000,6611.08
+FL0426,SpiceJet,326,Economy,10866,International,0.97,9000,9607.22
+FL0427,Vistara,45,Economy,6724,International,0.97,6000,6824.64
+FL0428,Emirates,36,Economy,9635,International,0.78,6000,6661.95
+FL0429,Vistara,156,Economy,9438,International,0.2,6000,6508.3
+FL0430,IndiGo,37,Economy,9212,International,0.03,6000,6167.01
+FL0431,Emirates,160,Premium,1333,Domestic,0.82,2750,3675.55
+FL0432,SpiceJet,275,Economy,2480,Domestic,0.63,4800,5289.92
+FL0433,Emirates,173,Economy,7557,International,0.99,6000,6975.49
+FL0434,SpiceJet,197,Economy,11532,International,0.42,7200,7267.02
+FL0435,Vistara,70,Economy,1592,Domestic,0.11,4000,4006.52
+FL0436,Emirates,37,Economy,10238,International,0.04,6000,6332.1
+FL0437,Emirates,36,Business,7252,International,0.11,7200,7016.58
+FL0438,IndiGo,47,Premium,9342,International,0.58,6600,7234.02
+FL0439,SpiceJet,49,Economy,11512,International,0.5,6000,6399.23
+FL0440,Air India,191,Economy,5040,International,0.42,7200,7971.84
+FL0441,Air India,191,Economy,5820,International,0.46,7200,7435.46
+FL0442,SpiceJet,37,Economy,7378,International,0.72,6000,6688.04
+FL0443,Air India,69,Economy,5820,International,0.65,6000,6767.8
+FL0444,IndiGo,275,Business,4196,International,0.52,8640,9207.55
+FL0445,Vistara,29,Premium,10517,International,0.18,6600,6875.24
+FL0446,SpiceJet,36,Economy,10261,International,0.88,6000,6845.31
+FL0447,SpiceJet,28,Economy,11730,International,0.81,6000,6512.11
+FL0448,Air India,210,Premium,8996,International,0.19,7920,7968.87
+FL0449,SpiceJet,221,Economy,10671,International,0.31,7200,7426.37
+FL0450,SpiceJet,208,Economy,5900,International,0.35,7200,7518.18
+FL0451,IndiGo,174,Economy,10267,International,0.59,6000,6703.42
+FL0452,Vistara,22,Economy,2116,Domestic,0.18,4000,4260.86
+FL0453,GoAir,27,Economy,7131,International,0.19,6000,6273.88
+FL0454,Emirates,198,Business,3038,International,0.55,5760,6303.46
+FL0455,IndiGo,186,Economy,6082,International,0.95,7200,8137.46
+FL0456,IndiGo,279,Premium,9400,International,0.51,7920,8425.76
+FL0457,Emirates,43,Economy,1554,Domestic,0.57,4000,4705.22
+FL0458,IndiGo,127,Economy,4703,International,0.22,6000,6088.55
+FL0459,Qatar Airways,46,Economy,2054,Domestic,0.57,4000,4463.93
+FL0460,GoAir,159,Premium,6210,International,0.54,6600,7323.35
+FL0461,Qatar Airways,98,Business,1877,Domestic,0.74,4800,5625.13
+FL0462,IndiGo,34,Premium,728,Domestic,0.45,2750,3151.54
+FL0463,Qatar Airways,273,Economy,4082,International,0.21,7200,7586.07
+FL0464,Emirates,213,Economy,11844,International,0.61,7200,7753.9
+FL0465,GoAir,159,Economy,1172,Domestic,0.57,2500,3079.91
+FL0466,GoAir,166,Economy,5502,International,0.98,6000,6835.26
+FL0467,GoAir,100,Business,11329,International,0.82,7200,7727.74
+FL0468,Qatar Airways,296,Premium,1171,Domestic,0.99,3300,4447.46
+FL0469,IndiGo,105,Economy,5477,International,0.83,6000,7008.59
+FL0470,Emirates,74,Economy,2529,International,0.58,4000,4474.07
+FL0471,SpiceJet,94,Premium,1725,Domestic,0.4,4400,4919.91
+FL0472,Emirates,145,Business,6246,International,0.45,7200,7640.85
+FL0473,GoAir,275,Premium,7711,International,0.63,7920,8718.68
+FL0474,Qatar Airways,122,Economy,8956,International,0.4,6000,6699.6
+FL0475,Qatar Airways,136,Premium,5733,International,0.55,6600,6885.87
+FL0476,Qatar Airways,189,Economy,5831,International,0.89,7200,8302.16
+FL0477,Air India,247,Economy,2235,Domestic,0.93,4800,5534.02
+FL0478,SpiceJet,212,Economy,7209,International,0.2,7200,7539.56
+FL0479,IndiGo,176,Premium,4689,International,0.09,6600,6596.63
+FL0480,Air India,68,Economy,10831,International,0.17,6000,6106.04
+FL0481,Vistara,97,Economy,1694,Domestic,0.7,4000,4465.51
+FL0482,SpiceJet,19,Economy,3905,International,0.52,6000,6484.18
+FL0483,Air India,64,Business,7119,International,0.69,7200,7872.41
+FL0484,IndiGo,39,Economy,1878,Domestic,0.1,4000,4045.7
+FL0485,Vistara,221,Premium,2381,Domestic,0.64,5280,6024.87
+FL0486,Air India,237,Economy,338,Domestic,0.61,3000,3488.75
+FL0487,Vistara,98,Economy,6945,International,0.62,6000,6581.86
+FL0488,IndiGo,20,Premium,2493,Domestic,0.75,4400,5196.13
+FL0489,SpiceJet,63,Premium,4259,International,0.28,6600,6593.96
+FL0490,GoAir,196,Economy,10154,International,0.28,7200,7810.08
+FL0491,Air India,196,Economy,8682,International,0.61,7200,7566.83
+FL0492,SpiceJet,33,Economy,4121,International,0.49,6000,6238.67
+FL0493,SpiceJet,97,Premium,397,Domestic,0.99,2750,3902.29
+FL0494,IndiGo,93,Economy,9512,International,0.42,6000,6449.76
+FL0495,IndiGo,137,Premium,473,Domestic,0.59,2750,3177.61
+FL0496,IndiGo,17,Business,6720,International,0.51,7200,7809.13
+FL0497,GoAir,130,Economy,10694,International,0.54,6000,6615.89
+FL0498,Vistara,26,Economy,1494,Domestic,0.51,2500,2920.66
+FL0499,Qatar Airways,164,Economy,10846,International,0.68,6000,6390.16
+FL0500,Emirates,186,Economy,4109,International,0.06,7200,6959.59
+FL0501,SpiceJet,212,Economy,11113,International,0.74,7200,8131.08
+FL0502,Air India,202,Economy,2448,Domestic,0.7,4800,5315.11
+FL0503,Vistara,31,Economy,2279,Domestic,0.75,4000,4927.39
+FL0504,Emirates,97,Premium,680,Domestic,0.34,2750,3068.16
+FL0505,GoAir,250,Economy,1462,Domestic,0.5,3000,3503.77
+FL0506,Air India,175,Economy,9487,International,0.17,6000,5958.56
+FL0507,Qatar Airways,213,Premium,3942,International,0.74,7920,8229.22
+FL0508,Qatar Airways,190,Premium,4206,International,0.05,7920,7861.59
+FL0509,IndiGo,218,Economy,11898,International,0.74,7200,7875.98
+FL0510,Vistara,326,Economy,5441,International,0.27,9000,8878.7
+FL0511,Vistara,218,Economy,3856,International,0.8,7200,8385.13
+FL0512,SpiceJet,211,Economy,7820,International,0.87,7200,8290.74
+FL0513,Vistara,66,Economy,3487,International,0.29,4000,4412.05
+FL0514,Emirates,221,Economy,7800,International,0.37,7200,7927.2
+FL0515,Qatar Airways,143,Economy,4216,International,0.15,6000,6415.92
+FL0516,Air India,29,Economy,10619,International,0.84,6000,7098
+FL0517,Vistara,251,Premium,5238,International,0.1,7920,8043.91
+FL0518,IndiGo,121,Economy,1181,Domestic,0.97,2500,3345.9
+FL0519,Vistara,289,Premium,8715,International,0.41,7920,8659.52
+FL0520,SpiceJet,231,Business,1591,Domestic,0.58,5760,6343.44
+FL0521,Emirates,135,Economy,7326,International,0.66,6000,6414.05
+FL0522,Vistara,87,Economy,5361,International,0.93,6000,6855.82
+FL0523,Qatar Airways,112,Economy,1423,Domestic,0.94,2500,3314.82
+FL0524,Qatar Airways,41,Economy,2746,International,0.11,4000,4089.27
+FL0525,Vistara,27,Business,3601,International,0.45,7200,7621.96
+FL0526,Qatar Airways,181,Economy,2782,International,0.81,4800,5500.16
+FL0527,Emirates,111,Premium,5570,International,0.15,6600,6892.53
+FL0528,Vistara,95,Economy,1002,Domestic,0.68,2500,3103.73
+FL0529,IndiGo,209,Economy,9213,International,0.25,7200,7421.72
+FL0530,Qatar Airways,137,Premium,2189,Domestic,0.01,4400,4555.69
+FL0531,IndiGo,234,Economy,10526,International,0.94,7200,7801.41
+FL0532,GoAir,242,Economy,1428,Domestic,0.02,3000,2888.47
+FL0533,Emirates,75,Business,5632,International,0.12,7200,7643.75
+FL0534,Air India,136,Economy,9602,International,0.43,6000,6574.31
+FL0535,SpiceJet,254,Economy,3717,International,0.91,7200,7927.51
+FL0536,SpiceJet,145,Premium,767,Domestic,0.61,2750,3399.3
+FL0537,Emirates,94,Economy,1199,Domestic,0.09,2500,2559.7
+FL0538,SpiceJet,209,Economy,8814,International,0.25,7200,7818.1
+FL0539,GoAir,195,Premium,6083,International,0.48,7920,8636.41
+FL0540,Vistara,51,Economy,6563,International,0.27,6000,5972.84
+FL0541,GoAir,157,Premium,1159,Domestic,0.81,2750,3549.92
+FL0542,Vistara,307,Premium,4013,International,0.97,9900,10435.35
+FL0543,Emirates,126,Premium,1116,Domestic,0.76,2750,3667.18
+FL0544,GoAir,230,Premium,6563,International,0.35,7920,8550.54
+FL0545,Qatar Airways,150,Economy,11629,International,0.36,6000,6418.23
+FL0546,Emirates,178,Premium,9500,International,0.56,6600,7205.19
+FL0547,IndiGo,205,Business,9082,International,0.31,8640,8941.44
+FL0548,Air India,18,Economy,3784,International,0.02,6000,6006.75
+FL0549,Vistara,172,Economy,11946,International,0.18,6000,6366.9
+FL0550,Qatar Airways,90,Economy,559,Domestic,0.15,2500,2704.24
+FL0551,IndiGo,146,Premium,1388,Domestic,0.37,2750,3257.88
+FL0552,SpiceJet,52,Economy,5144,International,0.32,6000,6620.74
+FL0553,Emirates,271,Business,10836,International,0.32,8640,9145.64
+FL0554,GoAir,69,Economy,10255,International,0.79,6000,6602.08
+FL0555,GoAir,154,Premium,5025,International,0.13,6600,6884
+FL0556,Emirates,39,Business,6615,International,0.85,7200,8268.02
+FL0557,GoAir,239,Business,10216,International,0.22,8640,8918.08
+FL0558,SpiceJet,144,Economy,1474,Domestic,0.24,2500,2872.17
+FL0559,IndiGo,60,Economy,5700,International,0.45,6000,6298.56
+FL0560,IndiGo,59,Economy,4405,International,0.79,6000,6939.66
+FL0561,Air India,25,Premium,8278,International,0.88,6600,7368.72
+FL0562,SpiceJet,216,Economy,8055,International,0.79,7200,8052.37
+FL0563,Qatar Airways,99,Economy,747,Domestic,0.29,2500,2739.42
+FL0564,Air India,70,Economy,2987,International,0.89,4000,4724.18
+FL0565,Air India,20,Economy,10253,International,0.89,6000,7030.9
+FL0566,SpiceJet,63,Business,2903,International,0.61,4800,5374.4
+FL0567,Air India,169,Economy,11622,International,0.55,6000,6828.75
+FL0568,GoAir,156,Economy,4812,International,0.3,6000,6045.43
+FL0569,SpiceJet,24,Economy,262,Domestic,0.43,2500,2869.8
+FL0570,Emirates,44,Economy,8069,International,0.2,6000,5905.96
+FL0571,IndiGo,45,Premium,5252,International,0.78,6600,7358.56
+FL0572,Emirates,31,Economy,9114,International,0.39,6000,6307.58
+FL0573,SpiceJet,53,Economy,7819,International,0.26,6000,6471.01
+FL0574,GoAir,191,Economy,11610,International,0.67,7200,7543.95
+FL0575,Vistara,153,Premium,3927,International,0.55,6600,7393.67
+FL0576,Qatar Airways,33,Economy,8973,International,0.69,6000,6981.93
+FL0577,GoAir,195,Economy,11903,International,0.03,7200,7281.49
+FL0578,GoAir,50,Premium,11300,International,0.98,6600,7312.77
+FL0579,Qatar Airways,25,Business,3357,International,0.13,4800,4892.22
+FL0580,Emirates,189,Economy,10476,International,0.15,7200,7419.86
+FL0581,Vistara,288,Economy,6558,International,0.56,7200,7800.39
+FL0582,Qatar Airways,32,Economy,402,Domestic,0.79,2500,3330.49
+FL0583,GoAir,128,Economy,9483,International,0.59,6000,6760.27
+FL0584,Air India,76,Business,9419,International,0.78,7200,8208.03
+FL0585,Qatar Airways,39,Economy,6475,International,0.65,6000,6697.9
+FL0586,SpiceJet,101,Economy,4712,International,0.4,6000,6475.68
+FL0587,Emirates,111,Premium,5631,International,0.69,6600,6961.43
+FL0588,SpiceJet,96,Business,6302,International,0.02,7200,7449.15
+FL0589,Vistara,55,Premium,11420,International,0.1,6600,6947.16
+FL0590,IndiGo,280,Economy,7459,International,0.77,7200,7827.23
+FL0591,Emirates,27,Economy,6871,International,0.74,6000,6914.9
+FL0592,Qatar Airways,184,Economy,1120,Domestic,0.52,3000,3399.96
+FL0593,Vistara,97,Premium,8789,International,0.88,6600,7127.65
+FL0594,IndiGo,31,Premium,3488,International,0.84,4400,5108.73
+FL0595,SpiceJet,200,Economy,6235,International,0.82,7200,8024.11
+FL0596,Emirates,146,Business,11360,International,0.03,7200,7137.79
+FL0597,GoAir,45,Economy,5930,International,0.34,6000,6554.07
+FL0598,Vistara,196,Premium,11486,International,0.09,7920,7631.49
+FL0599,Air India,181,Business,3826,International,0.65,8640,9455.08
+FL0600,Vistara,220,Economy,8609,International,0.02,7200,7422.38
+FL0601,Qatar Airways,77,Economy,3037,International,0.6,4000,4373.89
+FL0602,Vistara,27,Economy,5204,International,0.71,6000,6850.49
+FL0603,Vistara,42,Economy,4328,International,0.22,6000,6096.93
+FL0604,GoAir,160,Premium,6706,International,0.58,6600,6826.28
+FL0605,Emirates,288,Economy,9928,International,0.61,7200,7652.61
+FL0606,Air India,84,Economy,5709,International,0.99,6000,7088.28
+FL0607,Qatar Airways,97,Business,10873,International,0.3,7200,7237.45
+FL0608,Qatar Airways,249,Economy,1130,Domestic,0.81,3000,3925.2
+FL0609,GoAir,54,Economy,617,Domestic,0.66,2500,3317.2
+FL0610,Vistara,164,Business,6828,International,0.39,7200,7237.31
+FL0611,Emirates,285,Economy,11887,International,0.22,7200,7445.7
+FL0612,Qatar Airways,114,Economy,11207,International,0.36,6000,6232.92
+FL0613,IndiGo,219,Economy,1799,Domestic,0.47,4800,5396.96
+FL0614,Emirates,50,Premium,3199,International,0.95,4400,5563.78
+FL0615,Emirates,191,Premium,5231,International,0.42,7920,8662.63
+FL0616,Vistara,164,Economy,5017,International,0.46,6000,6213.09
+FL0617,Air India,199,Business,1366,Domestic,0.47,3600,3945.68
+FL0618,Air India,31,Premium,6453,International,0.53,6600,7068.05
+FL0619,Qatar Airways,149,Economy,6904,International,0.99,6000,7264.6
+FL0620,SpiceJet,81,Economy,11925,International,0.18,6000,5920.94
+FL0621,Vistara,81,Economy,277,Domestic,0.45,2500,2864.27
+FL0622,Qatar Airways,78,Economy,2795,International,0.49,4000,4608.34
+FL0623,Air India,185,Economy,7229,International,0.97,7200,8074.67
+FL0624,Air India,189,Economy,6312,International,0.95,7200,8469.49
+FL0625,Qatar Airways,149,Economy,10467,International,0.73,6000,6545.78
+FL0626,Vistara,69,Economy,1882,Domestic,0.38,4000,4418.84
+FL0627,IndiGo,145,Business,7669,International,0.73,7200,8006.42
+FL0628,Vistara,130,Economy,11452,International,1,6000,6889.91
+FL0629,SpiceJet,83,Business,6809,International,0.02,7200,7020.96
+FL0630,IndiGo,164,Economy,559,Domestic,0.59,2500,2987.72
+FL0631,Vistara,81,Economy,10691,International,0.26,6000,6281.74
+FL0632,Air India,53,Business,11045,International,0.11,7200,7555.7
+FL0633,Air India,85,Economy,9166,International,0.25,6000,6376.17
+FL0634,IndiGo,33,Economy,10527,International,0.01,6000,5962.44
+FL0635,Air India,82,Economy,2447,Domestic,0.42,4000,4596.19
+FL0636,GoAir,59,Premium,2128,Domestic,0.28,4400,4813.27
+FL0637,SpiceJet,139,Economy,8771,International,0.97,6000,6870.97
+FL0638,SpiceJet,176,Economy,845,Domestic,0.55,2500,3175.16
+FL0639,Emirates,193,Economy,11204,International,0.09,7200,7006
+FL0640,GoAir,87,Economy,2643,International,0.95,4000,5088.37
+FL0641,Air India,113,Economy,3987,International,0.46,6000,6768.33
+FL0642,Vistara,78,Economy,1835,Domestic,0.81,4000,4989.96
+FL0643,Qatar Airways,79,Economy,2098,Domestic,0.09,4000,4195.61
+FL0644,Air India,276,Economy,2467,Domestic,0.66,4800,5280.1
+FL0645,Vistara,296,Economy,1722,Domestic,0.37,4800,5088.69
+FL0646,Air India,40,Economy,7679,International,0.27,6000,6198.34
+FL0647,Qatar Airways,26,Premium,2932,International,0.11,4400,4598.47
+FL0648,Air India,132,Business,2811,International,0.1,4800,5101.5
+FL0649,SpiceJet,163,Economy,6421,International,0.78,6000,6855.5
+FL0650,Qatar Airways,58,Premium,2340,Domestic,0.48,4400,4874.2
+FL0651,SpiceJet,89,Economy,402,Domestic,0.7,2500,3256.94
+FL0652,Qatar Airways,131,Premium,9457,International,0.22,6600,7130.83
+FL0653,Qatar Airways,62,Premium,1760,Domestic,0.43,4400,4939.47
+FL0654,SpiceJet,213,Economy,11280,International,0.64,7200,7564.55
+FL0655,Qatar Airways,18,Economy,2771,International,0.51,4000,4496.15
+FL0656,SpiceJet,24,Premium,1426,Domestic,0.75,2750,3437.22
+FL0657,Vistara,148,Economy,10740,International,0.38,6000,6582.31
+FL0658,Air India,114,Economy,9588,International,0.45,6000,6680
+FL0659,SpiceJet,18,Premium,491,Domestic,0.1,2750,2825.02
+FL0660,GoAir,351,Economy,1689,Domestic,0.79,6000,7104.49
+FL0661,Emirates,83,Economy,11201,International,0.46,6000,6357.19
+FL0662,Qatar Airways,220,Economy,3852,International,0.84,7200,7904.91
+FL0663,Qatar Airways,45,Economy,11929,International,0.45,6000,6190.35
+FL0664,Emirates,50,Economy,5792,International,0.36,6000,6445.01
+FL0665,Qatar Airways,91,Premium,950,Domestic,0.9,2750,3647.23
+FL0666,Qatar Airways,225,Premium,6904,International,0.11,7920,8119.01
+FL0667,IndiGo,247,Economy,3322,International,0.72,4800,5303.49
+FL0668,SpiceJet,241,Economy,10575,International,0.84,7200,8111.4
+FL0669,Qatar Airways,197,Economy,8460,International,0.13,7200,7329.14
+FL0670,GoAir,57,Premium,9264,International,0.94,6600,7795.47
+FL0671,SpiceJet,259,Business,11534,International,0.58,8640,9432.52
+FL0672,IndiGo,48,Economy,10972,International,0.6,6000,6852.58
+FL0673,GoAir,188,Economy,11546,International,0.76,7200,7779.78
+FL0674,Vistara,56,Business,7619,International,0.8,7200,7710.54
+FL0675,GoAir,73,Economy,11693,International,0.55,6000,6428.11
+FL0676,Emirates,50,Economy,3491,International,0.21,4000,4300.26
+FL0677,Emirates,44,Business,10851,International,0.98,7200,7916.45
+FL0678,GoAir,231,Economy,5481,International,0.71,7200,8116.27
+FL0679,GoAir,57,Premium,11246,International,0.75,6600,7600.92
+FL0680,Vistara,134,Premium,7120,International,0.81,6600,7426.84
+FL0681,Air India,98,Economy,4574,International,0.75,6000,6521.13
+FL0682,Vistara,140,Economy,2599,International,0.84,4000,4932.25
+FL0683,Vistara,152,Economy,7615,International,0.1,6000,6324.5
+FL0684,Emirates,227,Economy,3875,International,0.74,7200,7988.65
+FL0685,IndiGo,59,Economy,11087,International,0.05,6000,5978.36
+FL0686,SpiceJet,108,Business,11425,International,0.31,7200,7549.15
+FL0687,Air India,117,Premium,7459,International,0.83,6600,7735.73
+FL0688,Emirates,59,Premium,6225,International,0.76,6600,7394.31
+FL0689,GoAir,167,Economy,7553,International,0.18,6000,6292.88
+FL0690,IndiGo,256,Business,8618,International,0.12,8640,8357.6
+FL0691,Vistara,75,Economy,4378,International,0.01,6000,5989.77
+FL0692,IndiGo,103,Economy,5485,International,0.6,6000,6780.62
+FL0693,Emirates,20,Economy,9582,International,0.55,6000,6270.24
+FL0694,Emirates,31,Economy,3803,International,0.96,6000,6974.34
+FL0695,Qatar Airways,26,Economy,1706,Domestic,0.35,4000,4516.78
+FL0696,Emirates,116,Economy,6111,International,0.29,6000,6573.24
+FL0697,GoAir,56,Economy,11159,International,0.35,6000,6185.12
+FL0698,Emirates,62,Economy,10376,International,0.24,6000,5952.88
+FL0699,Vistara,22,Economy,9051,International,0.72,6000,6400.6
+FL0700,GoAir,228,Premium,6343,International,0.51,7920,8437.36
+FL0701,SpiceJet,305,Economy,8619,International,0.08,9000,8713.13
+FL0702,Qatar Airways,172,Economy,320,Domestic,0.63,2500,3039.47
+FL0703,Emirates,146,Economy,1902,Domestic,0.21,4000,4348.4
+FL0704,Emirates,42,Economy,1381,Domestic,0.75,2500,3137.47
+FL0705,SpiceJet,114,Economy,3116,International,0.79,4000,4817.82
+FL0706,GoAir,95,Premium,4437,International,0.41,6600,6975.74
+FL0707,SpiceJet,104,Economy,8962,International,0.01,6000,6142.39
+FL0708,Air India,126,Premium,9794,International,0.05,6600,6881.59
+FL0709,Vistara,158,Premium,5137,International,0.61,6600,7052.47
+FL0710,SpiceJet,101,Economy,11025,International,0.03,6000,5822.76
+FL0711,IndiGo,178,Premium,9141,International,0.29,6600,6982.36
+FL0712,Vistara,187,Economy,10815,International,0.37,7200,7910.25
+FL0713,GoAir,155,Economy,9583,International,0.6,6000,6624.52
+FL0714,Air India,84,Economy,5833,International,0.21,6000,6461.9
+FL0715,Qatar Airways,66,Economy,4340,International,0.19,6000,5992.76
+FL0716,Qatar Airways,115,Economy,1091,Domestic,0.85,2500,3494.84
+FL0717,GoAir,33,Economy,4307,International,0.1,6000,6237.61
+FL0718,SpiceJet,147,Business,6051,International,0.13,7200,7443.96
+FL0719,Air India,112,Economy,8160,International,0.45,6000,6525.04
+FL0720,Vistara,153,Economy,2696,International,0.57,4000,4508.07
+FL0721,Vistara,172,Economy,3829,International,0.71,6000,6804.5
+FL0722,Vistara,105,Premium,2400,Domestic,0.68,4400,4994.43
+FL0723,SpiceJet,37,Economy,9238,International,0.11,6000,6198.93
+FL0724,Air India,139,Premium,2493,Domestic,0.89,4400,5129.41
+FL0725,Emirates,147,Economy,505,Domestic,0.85,2500,3394.09
+FL0726,Qatar Airways,96,Economy,6837,International,0.77,6000,6575.54
+FL0727,Air India,49,Economy,2635,International,0.37,4000,4249.09
+FL0728,Qatar Airways,84,Economy,4967,International,0.13,6000,6130.69
+FL0729,Air India,35,Economy,10260,International,0.68,6000,6851.81
+FL0730,IndiGo,184,Economy,3135,International,0.57,4800,5405.34
+FL0731,Qatar Airways,263,Economy,6078,International,0.04,7200,7429.31
+FL0732,IndiGo,90,Economy,6252,International,0.23,6000,6335.03
+FL0733,GoAir,191,Economy,7648,International,0.88,7200,7708.24
+FL0734,Emirates,73,Economy,11730,International,0.97,6000,7063.1
+FL0735,Vistara,155,Economy,3048,International,0.38,4000,4326.79
+FL0736,GoAir,59,Economy,1475,Domestic,0.52,2500,2982.65
+FL0737,IndiGo,36,Premium,8176,International,0.79,6600,7676.12
+FL0738,Air India,111,Economy,2476,Domestic,0.44,4000,4320.12
+FL0739,GoAir,81,Economy,6134,International,0.6,6000,6809.19
+FL0740,Emirates,71,Economy,5610,International,0.72,6000,6707.58
+FL0741,SpiceJet,56,Premium,567,Domestic,0.24,2750,2878.74
+FL0742,GoAir,135,Economy,10514,International,0.51,6000,6764.41
+FL0743,IndiGo,185,Economy,6842,International,0.6,7200,7849.61
+FL0744,Air India,143,Premium,11042,International,0.82,6600,7751.86
+FL0745,IndiGo,45,Economy,6930,International,0.6,6000,6794.45
+FL0746,Qatar Airways,208,Premium,10410,International,0.66,7920,8377.96
+FL0747,Emirates,39,Economy,1327,Domestic,0.23,2500,2698.73
+FL0748,Air India,16,Economy,8463,International,0.68,6000,6898.11
+FL0749,GoAir,204,Economy,839,Domestic,0.88,3000,3892.19
+FL0750,Qatar Airways,178,Economy,8101,International,0.66,6000,6927.72
+FL0751,GoAir,209,Premium,10837,International,0.43,7920,8283.77
+FL0752,Qatar Airways,17,Economy,7228,International,0.23,6000,6418.33
+FL0753,Qatar Airways,129,Premium,11614,International,0.58,6600,7126.5
+FL0754,Vistara,36,Economy,4009,International,0.91,6000,6622.42
+FL0755,GoAir,185,Economy,11818,International,0.74,7200,7548.65
+FL0756,GoAir,55,Economy,317,Domestic,0.38,2500,2795.16
+FL0757,Qatar Airways,85,Economy,10875,International,0.59,6000,6432.7
+FL0758,GoAir,198,Economy,6190,International,0.61,7200,8194.09
+FL0759,SpiceJet,122,Premium,8104,International,0.18,6600,6820.07
+FL0760,SpiceJet,27,Economy,5224,International,0.58,6000,6760.42
+FL0761,SpiceJet,104,Economy,3964,International,0.45,6000,6578.56
+FL0762,IndiGo,21,Economy,6762,International,0.79,6000,6994.28
+FL0763,GoAir,73,Economy,10618,International,0.01,6000,5764.24
+FL0764,IndiGo,45,Business,7333,International,0.09,7200,7117.29
+FL0765,Vistara,141,Economy,6764,International,0.61,6000,6623.88
+FL0766,Emirates,132,Business,1141,Domestic,0.95,3000,4076.49
+FL0767,Emirates,106,Premium,8689,International,0.29,6600,6568.66
+FL0768,GoAir,120,Economy,11643,International,0.23,6000,6024.09
+FL0769,Air India,36,Business,1622,Domestic,1,4800,5962.21
+FL0770,Vistara,221,Economy,6842,International,0.59,7200,7803.82
+FL0771,Emirates,62,Economy,9360,International,0.92,6000,6814.88
+FL0772,Qatar Airways,32,Economy,3387,International,0.45,4000,4407.26
+FL0773,Air India,113,Economy,1385,Domestic,0.5,2500,2951.99
+FL0774,Air India,211,Premium,4422,International,0.88,7920,9075.57
+FL0775,GoAir,119,Economy,8123,International,0.77,6000,6944.31
+FL0776,Qatar Airways,217,Economy,7748,International,0.9,7200,8393.24
+FL0777,SpiceJet,145,Economy,3810,International,0.68,6000,6499.59
+FL0778,Vistara,142,Economy,5985,International,0.52,6000,6200.34
+FL0779,Qatar Airways,113,Economy,5803,International,0.08,6000,6342.29
+FL0780,SpiceJet,193,Economy,3780,International,0.89,7200,7903.18
+FL0781,Emirates,39,Economy,3471,International,0.23,4000,4120.89
+FL0782,Vistara,28,Economy,4291,International,0.84,6000,6741.52
+FL0783,Qatar Airways,278,Economy,11069,International,0.49,7200,7310.59
+FL0784,Qatar Airways,245,Economy,892,Domestic,0.85,3000,3800.41
+FL0785,Vistara,51,Premium,8241,International,0.18,6600,6959.17
+FL0786,GoAir,132,Economy,3838,International,0.75,6000,6499.07
+FL0787,GoAir,151,Economy,8432,International,0.35,6000,6578.85
+FL0788,Qatar Airways,22,Economy,2172,Domestic,0.7,4000,4681.23
+FL0789,Emirates,254,Economy,1850,Domestic,0.33,4800,5187.86
+FL0790,Vistara,127,Economy,4506,International,0.24,6000,6222.12
+FL0791,GoAir,88,Economy,7066,International,0.7,6000,6614.45
+FL0792,Qatar Airways,167,Economy,7584,International,0.18,6000,5952.04
+FL0793,GoAir,55,Premium,4063,International,0.56,6600,7415.12
+FL0794,IndiGo,24,Premium,2650,International,0.47,4400,4631.24
+FL0795,SpiceJet,55,Economy,5372,International,0.79,6000,6654.22
+FL0796,GoAir,120,Premium,981,Domestic,0.4,2750,3210.02
+FL0797,Air India,134,Premium,1777,Domestic,0.45,4400,4769.81
+FL0798,Vistara,187,Economy,9333,International,0.93,7200,7933.02
+FL0799,Air India,48,Economy,10121,International,0.2,6000,6247.05
+FL0800,Emirates,164,Economy,4863,International,0.36,6000,6470.15
+FL0801,SpiceJet,135,Economy,10254,International,0.29,6000,6372.85
+FL0802,IndiGo,23,Premium,10695,International,0.81,6600,7289.5
+FL0803,Emirates,50,Business,1496,Domestic,0.16,3000,3074.12
+FL0804,Vistara,60,Economy,11839,International,0.27,6000,6360.69
+FL0805,Vistara,239,Business,9816,International,0.52,8640,9114.46
+FL0806,IndiGo,18,Economy,578,Domestic,0.13,2500,2560.21
+FL0807,Vistara,250,Economy,2934,International,0.4,4800,4989.69
+FL0808,SpiceJet,68,Economy,631,Domestic,0.77,2500,3277.84
+FL0809,Air India,219,Economy,6587,International,0.31,7200,7320.29
+FL0810,Vistara,195,Economy,2271,Domestic,0.13,4800,5096.89
+FL0811,Air India,202,Business,8001,International,0.47,8640,9447.89
+FL0812,Vistara,138,Economy,2413,Domestic,0.97,4000,5068.22
+FL0813,IndiGo,36,Premium,9440,International,0.43,6600,7128.27
+FL0814,GoAir,66,Economy,5888,International,0.48,6000,6303.18
+FL0815,Air India,39,Economy,5173,International,0.01,6000,6024.01
+FL0816,Qatar Airways,150,Premium,5834,International,0.29,6600,6914.18
+FL0817,Emirates,312,Economy,349,Domestic,0.77,3750,4654.68
+FL0818,GoAir,17,Economy,318,Domestic,0.55,2500,2955.01
+FL0819,GoAir,57,Premium,10783,International,0.39,6600,6904.97
+FL0820,Vistara,146,Economy,10445,International,0.24,6000,6405.07
+FL0821,GoAir,168,Economy,8915,International,0.81,6000,6750.69
+FL0822,Qatar Airways,19,Economy,4944,International,0.11,6000,6082.71
+FL0823,SpiceJet,102,Economy,517,Domestic,0.15,2500,2774.47
+FL0824,Air India,244,Economy,1875,Domestic,0.28,4800,4889.52
+FL0825,SpiceJet,110,Economy,8286,International,0.22,6000,6170.39
+FL0826,Qatar Airways,55,Premium,6284,International,0.46,6600,7265.75
+FL0827,Vistara,251,Economy,4566,International,0.78,7200,7637.96
+FL0828,SpiceJet,192,Economy,4297,International,0.82,7200,8283.26
+FL0829,Air India,260,Economy,7457,International,0.25,7200,7818.43
+FL0830,IndiGo,97,Economy,1739,Domestic,0.52,4000,4737.92
+FL0831,SpiceJet,35,Economy,891,Domestic,0.74,2500,3256.06
+FL0832,Air India,267,Economy,10661,International,0.3,7200,7395.32
+FL0833,Air India,161,Economy,10569,International,0.43,6000,6118.19
+FL0834,Qatar Airways,72,Economy,2160,Domestic,0.4,4000,4286.96
+FL0835,Air India,59,Economy,6284,International,0.77,6000,6599.88
+FL0836,SpiceJet,52,Economy,10335,International,0.34,6000,6637.76
+FL0837,Qatar Airways,97,Economy,11690,International,0.54,6000,6283.23
+FL0838,SpiceJet,97,Economy,9348,International,0.79,6000,6964.3
+FL0839,Qatar Airways,233,Economy,6389,International,0.36,7200,7283.86
+FL0840,Air India,28,Economy,7368,International,0.56,6000,6588.03
+FL0841,SpiceJet,141,Economy,7874,International,0.28,6000,6488.09
+FL0842,Qatar Airways,173,Economy,1328,Domestic,0.53,2500,3014.66
+FL0843,Qatar Airways,112,Economy,10653,International,0.51,6000,6662.11
+FL0844,Air India,205,Economy,6165,International,0.78,7200,7771.55
+FL0845,Emirates,336,Premium,3310,International,0.52,6600,7118.26
+FL0846,GoAir,211,Economy,4838,International,0.32,7200,7625.96
+FL0847,Air India,228,Economy,2326,Domestic,0.18,4800,4746.57
+FL0848,Air India,195,Economy,1817,Domestic,0.03,4800,4898.47
+FL0849,SpiceJet,59,Premium,4393,International,0.05,6600,6464.28
+FL0850,Emirates,27,Economy,3619,International,0.66,6000,6945.32
+FL0851,Qatar Airways,261,Economy,9342,International,0.74,7200,8250
+FL0852,Qatar Airways,197,Economy,11806,International,0.06,7200,7344.89
+FL0853,GoAir,153,Economy,3737,International,0.96,6000,6679.59
+FL0854,Emirates,128,Economy,6513,International,0.19,6000,6206.21
+FL0855,IndiGo,50,Premium,7002,International,0.75,6600,7545.72
+FL0856,GoAir,26,Economy,7715,International,0.7,6000,6651.14
+FL0857,Air India,148,Economy,5729,International,0.66,6000,6682.58
+FL0858,GoAir,169,Economy,5972,International,0.9,6000,6934.56
+FL0859,Vistara,172,Economy,5499,International,0.61,6000,6651.74
+FL0860,IndiGo,43,Economy,9215,International,0.93,6000,6759.58
+FL0861,SpiceJet,34,Premium,4860,International,0.6,6600,7212.68
+FL0862,Vistara,149,Economy,3835,International,0.21,6000,6095.06
+FL0863,Qatar Airways,180,Economy,9271,International,0.51,6000,6556.01
+FL0864,GoAir,24,Economy,7742,International,0.36,6000,6130.03
+FL0865,Vistara,172,Economy,5120,International,0.09,6000,6028.98
+FL0866,IndiGo,76,Premium,5519,International,0.79,6600,7148.27
+FL0867,Qatar Airways,232,Premium,1762,Domestic,0.6,5280,5762.63
+FL0868,Emirates,36,Premium,6451,International,0.08,6600,6383.36
+FL0869,Qatar Airways,26,Economy,2174,Domestic,0.87,4000,4736.91
+FL0870,Emirates,279,Premium,387,Domestic,0.63,3300,3981.95
+FL0871,Air India,111,Economy,2650,International,0.33,4000,4415.63
+FL0872,IndiGo,144,Economy,6636,International,0.97,6000,7146.23
+FL0873,GoAir,56,Economy,6660,International,0.15,6000,6049.24
+FL0874,SpiceJet,118,Economy,1007,Domestic,0.55,2500,2977.58
+FL0875,SpiceJet,23,Premium,8079,International,0.56,6600,7151.31
+FL0876,Emirates,118,Economy,9394,International,0.62,6000,6776.01
+FL0877,IndiGo,123,Economy,11418,International,0.92,6000,6636
+FL0878,Emirates,190,Economy,6184,International,0.35,7200,7414.66
+FL0879,GoAir,33,Economy,5929,International,0.62,6000,6944.49
+FL0880,SpiceJet,54,Economy,935,Domestic,0.92,2500,3328.85
+FL0881,Emirates,20,Economy,1093,Domestic,0.24,2500,2773.15
+FL0882,IndiGo,227,Premium,4913,International,0.01,7920,8083.68
+FL0883,Air India,85,Economy,9014,International,0.21,6000,6238.83
+FL0884,Qatar Airways,215,Economy,8113,International,0.62,7200,8204.98
+FL0885,Emirates,114,Economy,11071,International,0.53,6000,6370.31
+FL0886,Air India,103,Economy,11611,International,0.62,6000,6324.14
+FL0887,Emirates,151,Economy,11062,International,0.85,6000,6959.67
+FL0888,Qatar Airways,108,Economy,4992,International,0.87,6000,6972.65
+FL0889,IndiGo,226,Premium,5368,International,0.48,7920,8481.57
+FL0890,Air India,106,Economy,8402,International,0.97,6000,7012.3
+FL0891,Emirates,187,Economy,5665,International,0.49,7200,7877.94
+FL0892,Air India,129,Economy,5965,International,0.36,6000,6234.28
+FL0893,GoAir,114,Economy,6543,International,0.89,6000,7106.94
+FL0894,Air India,151,Business,4790,International,0.23,7200,7312.45
+FL0895,SpiceJet,98,Economy,11308,International,0.61,6000,6692.97
+FL0896,IndiGo,87,Economy,9586,International,0.15,6000,6439.38
+FL0897,GoAir,66,Economy,2470,Domestic,0.58,4000,4664.29
+FL0898,IndiGo,218,Premium,5262,International,0.69,7920,8953.23
+FL0899,IndiGo,24,Economy,9454,International,0.92,6000,6793.71
+FL0900,GoAir,203,Economy,11987,International,0.12,7200,7186.48
+FL0901,IndiGo,98,Premium,6983,International,0.96,6600,7411.33
+FL0902,Emirates,55,Business,4685,International,0.15,7200,7120.63
+FL0903,IndiGo,180,Economy,4572,International,0.61,6000,6684.27
+FL0904,GoAir,259,Economy,11461,International,0.03,7200,6925.96
+FL0905,Qatar Airways,53,Economy,10842,International,0.37,6000,6594.31
+FL0906,SpiceJet,135,Economy,2883,International,0.19,4000,3994
+FL0907,Qatar Airways,321,Business,3846,International,0.74,10800,12103.43
+FL0908,Qatar Airways,80,Economy,3101,International,0.93,4000,5169.41
+FL0909,Qatar Airways,18,Premium,4243,International,0.43,6600,7224.18
+FL0910,GoAir,27,Premium,6432,International,0.72,6600,7242.52
+FL0911,Emirates,19,Economy,11736,International,0.79,6000,6804.02
+FL0912,SpiceJet,71,Economy,894,Domestic,0.88,2500,3294.05
+FL0913,GoAir,50,Economy,10532,International,0.96,6000,6744.14
+FL0914,SpiceJet,209,Economy,5189,International,0.77,7200,7799.37
+FL0915,IndiGo,18,Economy,2530,International,0.46,4000,4525.16
+FL0916,Air India,178,Premium,2054,Domestic,0.18,4400,4619.14
+FL0917,Emirates,33,Economy,608,Domestic,0.18,2500,2704.2
+FL0918,Emirates,94,Premium,7649,International,0.09,6600,6572.31
+FL0919,Emirates,254,Premium,2224,Domestic,0.09,5280,5480.74
+FL0920,Emirates,31,Economy,8782,International,0.71,6000,6862.23
+FL0921,GoAir,79,Economy,919,Domestic,0.77,2500,3404.81
+FL0922,GoAir,85,Premium,2659,International,0.16,4400,4397.94
+FL0923,Qatar Airways,97,Economy,7511,International,0.29,6000,6089.16
+FL0924,IndiGo,28,Business,257,Domestic,0.62,3000,3530.63
+FL0925,SpiceJet,15,Economy,8284,International,0.24,6000,6295.45
+FL0926,SpiceJet,121,Economy,7439,International,0.08,6000,6140.86
+FL0927,IndiGo,173,Economy,3601,International,0.05,6000,5837.19
+FL0928,Emirates,70,Economy,2581,International,0.85,4000,4930.99
+FL0929,Qatar Airways,55,Economy,1984,Domestic,0.42,4000,4277.79
+FL0930,Emirates,71,Economy,11028,International,0.69,6000,6753.53
+FL0931,Qatar Airways,52,Economy,787,Domestic,0.09,2500,2538.02
+FL0932,Vistara,30,Premium,1308,Domestic,0.76,2750,3630.5
+FL0933,Air India,107,Economy,4696,International,0.33,6000,6275.41
+FL0934,IndiGo,166,Economy,10227,International,0.06,6000,6103.25
+FL0935,Emirates,82,Premium,10108,International,0.93,6600,7896.17
+FL0936,Vistara,113,Economy,5385,International,0.26,6000,6307.04
+FL0937,GoAir,91,Economy,8714,International,0.73,6000,6728.48
+FL0938,Qatar Airways,157,Economy,10184,International,0.23,6000,6099.47
+FL0939,IndiGo,139,Economy,2132,Domestic,0.74,4000,4601.27
+FL0940,GoAir,120,Business,6983,International,0.05,7200,7141
+FL0941,Qatar Airways,111,Economy,4814,International,0.25,6000,5979.9
+FL0942,Vistara,109,Economy,5507,International,0.77,6000,6508.57
+FL0943,Vistara,41,Economy,677,Domestic,0.83,2500,3228.11
+FL0944,Qatar Airways,241,Economy,11217,International,0.48,7200,7660.42
+FL0945,Air India,57,Economy,8997,International,0.9,6000,6874.1
+FL0946,Qatar Airways,38,Economy,1117,Domestic,0.84,2500,3272.98
+FL0947,Emirates,70,Economy,9660,International,0.69,6000,6890.39
+FL0948,Qatar Airways,16,Economy,2646,International,0.28,4000,4079.34
+FL0949,SpiceJet,51,Economy,3270,International,0.6,4000,4767.71
+FL0950,Qatar Airways,34,Premium,5352,International,0.71,6600,7142.96
+FL0951,Air India,53,Economy,5158,International,0.22,6000,6097.04
+FL0952,Air India,121,Economy,812,Domestic,0.78,2500,3415.58
+FL0953,SpiceJet,47,Economy,5772,International,0.92,6000,7080.85
+FL0954,GoAir,113,Economy,5563,International,0.14,6000,6368.28
+FL0955,Qatar Airways,227,Business,3561,International,0.72,8640,9321.97
+FL0956,Emirates,107,Premium,2097,Domestic,0,4400,4590.23
+FL0957,Emirates,225,Economy,955,Domestic,0.1,3000,3182.52
+FL0958,Emirates,34,Economy,5314,International,0.64,6000,6447.34
+FL0959,IndiGo,145,Economy,7427,International,0.67,6000,6518.36
+FL0960,IndiGo,187,Economy,449,Domestic,0.96,3000,3983.61
+FL0961,Air India,142,Economy,2519,International,0.94,4000,5090.18
+FL0962,GoAir,200,Economy,1367,Domestic,0.31,3000,3439.83
+FL0963,GoAir,75,Economy,11267,International,0.05,6000,5979.58
+FL0964,Air India,136,Economy,3132,International,0.7,4000,4883.9
+FL0965,Emirates,191,Economy,5319,International,0.33,7200,7302.7
+FL0966,Qatar Airways,57,Premium,1486,Domestic,0.97,2750,3815.14
+FL0967,SpiceJet,83,Premium,11645,International,0.47,6600,7038.6
+FL0968,Emirates,103,Economy,7825,International,0.47,6000,6759.5
+FL0969,IndiGo,200,Business,6623,International,0.18,8640,9188.03
+FL0970,Vistara,24,Premium,5520,International,0.45,6600,6718.84
+FL0971,SpiceJet,197,Premium,4824,International,0.77,7920,8780.76
+FL0972,IndiGo,186,Economy,6846,International,0.82,7200,8258
+FL0973,Vistara,87,Economy,7752,International,0.4,6000,6344.6
+FL0974,GoAir,108,Economy,2805,International,0.97,4000,4912.26
+FL0975,Vistara,155,Economy,7332,International,0.57,6000,6466.33
+FL0976,Emirates,253,Economy,11056,International,0.67,7200,8058.38
+FL0977,Emirates,27,Economy,7784,International,0.33,6000,6075.31
+FL0978,SpiceJet,73,Economy,6848,International,0.07,6000,5832.51
+FL0979,Qatar Airways,35,Economy,11016,International,0.06,6000,5888.87
+FL0980,IndiGo,25,Premium,10622,International,0.81,6600,7600.49
+FL0981,Emirates,185,Economy,9668,International,0.45,7200,7424.83
+FL0982,Vistara,209,Economy,11333,International,0.3,7200,7832.5
+FL0983,SpiceJet,79,Business,9747,International,0.01,7200,7560.71
+FL0984,SpiceJet,23,Premium,1222,Domestic,0.37,2750,3135.25
+FL0985,Air India,235,Business,1997,Domestic,0.86,5760,6862.08
+FL0986,IndiGo,120,Economy,9869,International,0.39,6000,6273.78
+FL0987,SpiceJet,40,Economy,3041,International,0.47,4000,4330.64
+FL0988,SpiceJet,173,Premium,6102,International,0.84,6600,7182.77
+FL0989,Qatar Airways,96,Economy,457,Domestic,0.14,2500,2741.61
+FL0990,Emirates,77,Economy,2424,Domestic,0.08,4000,4138.04
+FL0991,SpiceJet,241,Economy,7174,International,0.62,7200,7784.34
+FL0992,SpiceJet,50,Premium,6503,International,0.36,6600,6741.31
+FL0993,GoAir,225,Premium,11867,International,0.5,7920,8344.93
+FL0994,GoAir,124,Economy,748,Domestic,0.98,2500,3503.72
+FL0995,Emirates,39,Business,1511,Domestic,0.14,4800,5054.26
+FL0996,Qatar Airways,207,Business,4778,International,0.46,8640,8716.19
+FL0997,GoAir,206,Premium,11156,International,0.08,7920,8106.95
+FL0998,Qatar Airways,173,Economy,10244,International,0.05,6000,5955.35
+FL0999,Qatar Airways,218,Business,9603,International,0.73,8640,9295.99
+FL1000,Qatar Airways,126,Economy,2944,International,0.04,4000,4210.84
