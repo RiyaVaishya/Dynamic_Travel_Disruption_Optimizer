@@ -9,11 +9,17 @@ from reportlab.pdfgen import canvas
 import io
 import datetime
 import base64
+# Robust SHAP import: catch any exception during import to avoid crashes
+SHAP_AVAILABLE = False
+SHAP_IMPORT_ERROR = None
 try:
     import shap
     SHAP_AVAILABLE = True
-except ImportError:
+except Exception as e:
+    # Do not raise — record the error and disable SHAP features gracefully
     SHAP_AVAILABLE = False
+    SHAP_IMPORT_ERROR = str(e)
+    shap = None
 
 # ----------------------------
 # Load model + encoders
@@ -697,7 +703,8 @@ if st.button("💵 Predict Compensation"):
         except Exception as e:
             st.warning(f"⚠️ SHAP explanation unavailable: {str(e)}")
     else:
-        st.info("ℹ️ SHAP library is not installed. Install it with: pip install shap")
+        # Production-friendly message: do not suggest runtime installs on Streamlit Cloud
+        st.info("ℹ️ SHAP-based explainability is unavailable in this deployment. The app will continue without SHAP visualizations.")
 
     # PDF summary generation
     def make_pdf_bytes(airline, ticket, region, delay, distance, loyalty, predicted):
